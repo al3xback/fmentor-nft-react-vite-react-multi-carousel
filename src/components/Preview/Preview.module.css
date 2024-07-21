@@ -41,7 +41,7 @@
 }
 
 .desc {
-	margin-bottom: 1.6rem;
+	margin-bottom: 1.8rem;
 }
 
 .statuses li {
@@ -79,7 +79,7 @@
 }
 
 .author .text {
-	font-size: 15;
+	font-size: 1.5rem;
 }
 
 @media (min-width: 48em) {
@@ -89,6 +89,7 @@
 
 	.desc {
 		margin-bottom: 2.4rem;
+		font-size: 1.8rem;
 	}
 
 	.statuses li,

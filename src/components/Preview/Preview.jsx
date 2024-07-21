@@ -53,7 +53,7 @@ export default function Preview() {
 			</div>
 			<div className={styles.content}>
 				<h2 className={styles.title}>
-					<a href="#/" className="btn btn--link">
+					<a href="#" className="btn btn--link">
 						Equilibrium #3429
 					</a>
 				</h2>
@@ -79,7 +79,7 @@ export default function Preview() {
 					/>
 					<span className={styles.text}>
 						Creation of&nbsp;
-						<a href="#/" className="btn btn--link">
+						<a href="#" className="btn btn--link">
 							Jules Wyvern
 						</a>
 					</span>
